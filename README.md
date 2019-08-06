@@ -1,2 +1,3 @@
-# Hello-word
-premier travail sur Github
+# Hello-world
+Administrateur réseau
+Travail sur routage BGP
